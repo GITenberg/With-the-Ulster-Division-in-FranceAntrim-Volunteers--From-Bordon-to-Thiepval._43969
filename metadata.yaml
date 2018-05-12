@@ -1,0 +1,30 @@
+_repo: With-the-Ulster-Division-in-FranceAntrim-Volunteers--From-Bordon-to-Thiepval._43969
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43969-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: S., A. P. I. (Samuels, Arthur Purefoy Irwin)
+    alias: Samuels, Arthur Purefoy Irwin
+    gutenberg_agent_id: '42505'
+    url: http://www.gutenberg.org/2009/agents/42505
+  - agent_name: Samuels, Dorothy Gage
+    gutenberg_agent_id: '42506'
+    url: http://www.gutenberg.org/2009/agents/42506
+description: ''
+gutenberg_issued: '2013-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43969'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain. Army. Royal Irish Rifles. Battalion, 11th -- History'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Great Britain'
+title: "With the Ulster Division in France\r\nA Story of the 11th Battalion Royal\
+  \ Irish Rifles (South Antrim Volunteers), From Bordon to Thiepval."
+url: http://www.gutenberg.org/ebooks/43969
